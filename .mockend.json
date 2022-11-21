@@ -1,5 +1,5 @@
 {
-  "CODE": "0000",
-  "DATA": "OK",
-  "DESC": "OK",
+  "User": {
+    "title": { "string": {} }
+  }
 }
